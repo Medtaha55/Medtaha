@@ -1,0 +1,18 @@
+h1
+{ 
+    color: red;
+	font-size: 80px;
+	text-shadow: 2px 2px 2px saddlebrown;
+}
+body
+{
+    background-color: azure;
+
+}
+img
+{
+    width:180px;
+	height:120px;
+	transition: width 2s, height 2s;
+}
+
